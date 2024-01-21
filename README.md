@@ -1,2 +1,2 @@
-# arivuos
-An virtual operating system with BestArivu by BestMat.
+# BestMat ArivuOS
+An open-source virtual operating system with BestArivu by BestMat.
